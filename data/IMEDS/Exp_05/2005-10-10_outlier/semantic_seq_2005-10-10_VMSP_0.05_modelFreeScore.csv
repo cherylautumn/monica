@@ -1,0 +1,59 @@
+modelFreeScore,seqId,seq,semantic
+44.34626831189299,3,1551099 -1  -2 ,'Prednisone' -1 -2 
+43.19990946502061,11,989878 -1  -2 ,'Lidocaine' -1 -2 
+42.3051736086135,54,1124957 -1 1125315 -1 1124957 -1  -2 ,'Oxycodone' -1 'Acetaminophen' -1 'Oxycodone' -1 -2 
+7.3600823045267525,36,1112921 1154343 -1  -2 ,'Ipratropium' 'Albuterol' -1 -2 
+6.674888888888895,25,1154343 1742253 -1  -2 ,'Albuterol' 'Levofloxacin' -1 -2 
+6.369841836734698,37,956874 1307046 -1  -2 ,'Furosemide' 'Metoprolol' -1 -2 
+6.335123192040033,5,1332418 -1  -2 ,'Amlodipine' -1 -2 
+6.066724279835396,44,1154343 -1 956874 19049105 -1  -2 ,'Albuterol' -1 'Furosemide' 'Potassium Chloride' -1 -2 
+5.540891171884772,16,739138 -1  -2 ,'Sertraline' -1 -2 
+2.2707624716553307,30,791967 -1 1742253 -1  -2 ,'Lorazepam' -1 'Levofloxacin' -1 -2 
+1.9567785917021463,10,1000560 -1  -2 ,'Ondansetron' -1 -2 
+1.923739711934157,22,791967 -1 19055720 -1  -2 ,'Lorazepam' -1 'HEPARIN. BEEF' -1 -2 
+1.923739711934157,7,1325608 -1  -2 ,'pegfilgrastim' -1 -2 
+1.5371040279600208,17,19055720 -1 1742253 -1  -2 ,'HEPARIN. BEEF' -1 'Levofloxacin' -1 -2 
+1.456559027777778,8,1129625 -1  -2 ,'Diphenhydramine' -1 -2 
+1.226043348320701,9,1110410 -1  -2 ,'Morphine' -1 -2 
+0.9812085327958351,42,791967 -1 781039 -1  -2 ,'Lorazepam' -1 'Alprazolam' -1 -2 
+0.9812085327958351,40,1125315 -1 781039 -1  -2 ,'Acetaminophen' -1 'Alprazolam' -1 -2 
+0.9812085327958351,39,1125315 -1 791967 -1  -2 ,'Acetaminophen' -1 'Lorazepam' -1 -2 
+0.9812085327958351,35,1125315 -1 1154343 -1  -2 ,'Acetaminophen' -1 'Albuterol' -1 -2 
+0.8965905868782746,13,797399 -1  -2 ,'gabapentin' -1 -2 
+0.7306077097505675,38,781039 -1 1154343 -1  -2 ,'Alprazolam' -1 'Albuterol' -1 -2 
+0.7147146933556114,0,19111620 -1  -2 ,'Folic Acid' -1 -2 
+0.6552090083451263,56,956874 -1 1125315 1174888 -1 1754994 -1  -2 ,'Furosemide' -1 'Acetaminophen' 'Hydrocodone' -1 'Fluconazole' -1 -2 
+0.6468957097505675,50,956874 -1 1125315 -1 1742253 -1  -2 ,'Furosemide' -1 'Acetaminophen' -1 'Levofloxacin' -1 -2 
+0.4354695557235243,41,781039 -1 956874 -1  -2 ,'Alprazolam' -1 'Furosemide' -1 -2 
+0.40776001232462533,48,1742253 -1 1125315 1174888 -1  -2 ,'Levofloxacin' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+0.38605460400883895,26,1754994 -1 1125315 -1  -2 ,'Fluconazole' -1 'Acetaminophen' -1 -2 
+0.37198991894036143,45,1125315 -1 1713332 1759842 -1  -2 ,'Acetaminophen' -1 'Amoxicillin' 'Clavulanate' -1 -2 
+0.37198991894036143,28,948078 -1 1754994 -1  -2 ,'pantoprazole' -1 'Fluconazole' -1 -2 
+0.31369545564719653,52,1125315 1174888 -1 1153013 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Promethazine' -1 -2 
+0.31369545564719653,32,1307046 -1 1153013 -1  -2 ,'Metoprolol' -1 'Promethazine' -1 -2 
+0.29374949519991267,57,1307046 -1 1125315 1174888 -1 1201620 -1  -2 ,'Metoprolol' -1 'Acetaminophen' 'Hydrocodone' -1 'Codeine' -1 -2 
+0.29374949519991267,24,1754994 -1 1201620 -1  -2 ,'Fluconazole' -1 'Codeine' -1 -2 
+0.27695492006835354,12,961047 -1  -2 ,'Ranitidine' -1 -2 
+0.25529291128096965,53,956874 -1 1326303 -1 1125315 -1  -2 ,'Furosemide' -1 'Digoxin' -1 'Acetaminophen' -1 -2 
+0.25529291128096965,51,1125315 -1 1326303 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Digoxin' -1 'Acetaminophen' -1 -2 
+0.24922959183673488,2,1596977 -1  -2 ,'Insulin. Regular. Human' -1 -2 
+0.2194341890132117,29,1125315 -1 1518254 -1  -2 ,'Acetaminophen' -1 'Dexamethasone' -1 -2 
+0.2146008455226076,43,1518254 19135839 19136030 -1  -2 ,'Dexamethasone' 'Magnesium salt' 'Saline Solution. Hypertonic' -1 -2 
+0.19077500262726477,31,1314002 -1 1153013 -1  -2 ,'Atenolol' -1 'Promethazine' -1 -2 
+0.14858524983100838,46,956874 -1 1713332 1759842 -1  -2 ,'Furosemide' -1 'Amoxicillin' 'Clavulanate' -1 -2 
+0.1322883744565067,27,1518254 -1 1304850 -1  -2 ,'Dexamethasone' -1 'Filgrastim' -1 -2 
+0.1142856368197262,6,1328165 -1  -2 ,'Diltiazem' -1 -2 
+0.10217329277567573,55,1124957 1125315 -1 956874 -1  -2 ,'Oxycodone' 'Acetaminophen' -1 'Furosemide' -1 -2 
+0.10217329277567573,47,1713332 1759842 -1 956874 -1  -2 ,'Amoxicillin' 'Clavulanate' -1 'Furosemide' -1 -2 
+0.09990910181423172,14,752061 -1  -2 ,'Prochlorperazine' -1 -2 
+0.09708085125630421,34,903459 1518254 -1  -2 ,'Dolasetron' 'Dexamethasone' -1 -2 
+0.09216494560197017,18,1518254 -1 19049105 -1  -2 ,'Dexamethasone' -1 'Potassium Chloride' -1 -2 
+0.09070815247138368,23,1742253 -1 1518254 -1  -2 ,'Levofloxacin' -1 'Dexamethasone' -1 -2 
+0.09028848709688246,15,744740 -1  -2 ,'zolpidem' -1 -2 
+0.08081179113514265,49,1742253 -1 1125315 -1 1153013 -1  -2 ,'Levofloxacin' -1 'Acetaminophen' -1 'Promethazine' -1 -2 
+0.07019231194921519,20,19049105 -1 1125315 -1  -2 ,'Potassium Chloride' -1 'Acetaminophen' -1 -2 
+0.06661497758162069,4,1373928 -1  -2 ,'Hydralazine' -1 -2 
+0.04823171593956891,21,19049105 -1 956874 -1  -2 ,'Potassium Chloride' -1 'Furosemide' -1 -2 
+0.045543931891215576,19,19049105 -1 1310149 -1  -2 ,'Potassium Chloride' -1 'Warfarin' -1 -2 
+0.04217481927620179,33,1125315 1307046 -1  -2 ,'Acetaminophen' 'Metoprolol' -1 -2 
+0.03498689194171877,1,1786621 -1  -2 ,'Cephalexin' -1 -2 

@@ -1,0 +1,460 @@
+coverage_support,seqId,seq,semantic
+4415,23,1125315 -1  -2 ,'Acetaminophen' -1 -2 
+3369,12,956874 -1  -2 ,'Furosemide' -1 -2 
+2486,64,19121608 -1  -2 ,'Influenza virus vaccine' -1 -2 
+2920,53,1713332 -1  -2 ,'Amoxicillin' -1 -2 
+1963,45,1506270 -1  -2 ,'Methylprednisolone' -1 -2 
+1942,36,1307046 -1  -2 ,'Metoprolol' -1 -2 
+3092,63,19049105 -1  -2 ,'Potassium Chloride' -1 -2 
+1597,6,903963 -1  -2 ,'Triamcinolone' -1 -2 
+1683,49,1545958 -1  -2 ,'atorvastatin' -1 -2 
+2475,55,1734104 -1  -2 ,'Azithromycin' -1 -2 
+1552,15,974166 -1  -2 ,'Hydrochlorothiazide' -1 -2 
+946,28,1154029 -1  -2 ,'Fentanyl' -1 -2 
+1641,42,1346823 -1  -2 ,'carvedilol' -1 -2 
+2190,57,1742253 -1  -2 ,'Levofloxacin' -1 -2 
+1230,46,1518254 -1  -2 ,'Dexamethasone' -1 -2 
+882,0,586413 -1  -2 ,'pneumococcal polysaccharides (23)' -1 -2 
+2061,30,1154343 -1  -2 ,'Albuterol' -1 -2 
+1619,25,1149380 -1  -2 ,'fluticasone' -1 -2 
+1505,38,1310149 -1  -2 ,'Warfarin' -1 -2 
+1203,44,1503297 -1  -2 ,'Metformin' -1 -2 
+1530,26,1153013 -1  -2 ,'Promethazine' -1 -2 
+1365,43,1361711 -1  -2 ,'Nitroglycerin' -1 -2 
+847,18,989878 -1  -2 ,'Lidocaine' -1 -2 
+2122,60,1786621 -1  -2 ,'Cephalexin' -1 -2 
+958,3,781039 -1  -2 ,'Alprazolam' -1 -2 
+1474,48,1539403 -1  -2 ,'Simvastatin' -1 -2 
+952,16,975125 -1  -2 ,'Hydrocortisone' -1 -2 
+1243,41,1332418 -1  -2 ,'Amlodipine' -1 -2 
+1865,61,1797513 -1  -2 ,'Ciprofloxacin' -1 -2 
+995,11,948078 -1  -2 ,'pantoprazole' -1 -2 
+1875,50,1551099 -1  -2 ,'Prednisone' -1 -2 
+1857,37,1308216 -1  -2 ,'Lisinopril' -1 -2 
+1026,33,1177480 -1  -2 ,'Ibuprofen' -1 -2 
+830,4,791967 -1  -2 ,'Lorazepam' -1 -2 
+821,52,1707164 -1  -2 ,'Metronidazole' -1 -2 
+1232,17,986417 -1  -2 ,'POLYETHYLENE GLYCOL 3350' -1 -2 
+1100,1,744740 -1  -2 ,'zolpidem' -1 -2 
+1076,21,1112921 -1  -2 ,'Ipratropium' -1 -2 
+896,19,997881 -1  -2 ,'Clindamycin' -1 -2 
+853,58,1754994 -1  -2 ,'Fluconazole' -1 -2 
+1030,2,778711 -1  -2 ,'cyclobenzaprine' -1 -2 
+890,47,1526475 -1  -2 ,'ezetimibe' -1 -2 
+847,8,920458 -1  -2 ,'Betamethasone' -1 -2 
+1260,51,1705674 -1  -2 ,'Trimethoprim' -1 -2 
+1115,40,1326303 -1  -2 ,'Digoxin' -1 -2 
+986,56,1738521 -1  -2 ,'Doxycycline' -1 -2 
+887,5,797399 -1  -2 ,'gabapentin' -1 -2 
+864,7,904453 -1  -2 ,'Esomeprazole' -1 -2 
+856,29,1154332 -1  -2 ,'Pseudoephedrine' -1 -2 
+3669,32,1174888 -1  -2 ,'Hydrocodone' -1 -2 
+1633,22,1124957 -1  -2 ,'Oxycodone' -1 -2 
+1365,31,1163944 -1  -2 ,'Guaifenesin' -1 -2 
+1217,14,970250 -1  -2 ,'Spironolactone' -1 -2 
+1170,39,1322184 -1  -2 ,'clopidogrel' -1 -2 
+935,54,1716903 -1  -2 ,'moxifloxacin' -1 -2 
+3046,238,1125315 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 -2 
+1828,436,956874 -1 956874 -1  -2 ,'Furosemide' -1 'Furosemide' -1 -2 
+1658,35,1201620 -1  -2 ,'Codeine' -1 -2 
+1520,27,1153664 -1  -2 ,'Propoxyphene' -1 -2 
+1159,65,19121608 -1 19121608 -1  -2 ,'Influenza virus vaccine' -1 'Influenza virus vaccine' -1 -2 
+1563,59,1759842 -1  -2 ,'Clavulanate' -1 -2 
+1157,93,956874 19049105 -1  -2 ,'Furosemide' 'Potassium Chloride' -1 -2 
+1097,315,1124957 1125315 -1  -2 ,'Oxycodone' 'Acetaminophen' -1 -2 
+930,24,1137529 -1  -2 ,'salmeterol' -1 -2 
+919,201,1506270 -1 1506270 -1  -2 ,'Methylprednisolone' -1 'Methylprednisolone' -1 -2 
+994,13,967823 -1  -2 ,'Sodium Chloride' -1 -2 
+917,208,1346823 -1 1346823 -1  -2 ,'carvedilol' -1 'carvedilol' -1 -2 
+1213,62,1836430 -1  -2 ,'Sulfamethoxazole' -1 -2 
+885,34,1192710 -1  -2 ,'Chlorpheniramine' -1 -2 
+1063,20,1103314 -1  -2 ,'Tramadol' -1 -2 
+945,219,1307046 -1 1307046 -1  -2 ,'Metoprolol' -1 'Metoprolol' -1 -2 
+1580,164,1713332 -1 1713332 -1  -2 ,'Amoxicillin' -1 'Amoxicillin' -1 -2 
+811,300,1112921 1154343 -1  -2 ,'Ipratropium' 'Albuterol' -1 -2 
+831,9,923645 -1  -2 ,'Omeprazole' -1 -2 
+829,195,1545958 -1 1545958 -1  -2 ,'atorvastatin' -1 'atorvastatin' -1 -2 
+1521,94,956874 -1 19049105 -1  -2 ,'Furosemide' -1 'Potassium Chloride' -1 -2 
+871,213,1308216 -1 1308216 -1  -2 ,'Lisinopril' -1 'Lisinopril' -1 -2 
+957,136,1742253 -1 1742253 -1  -2 ,'Levofloxacin' -1 'Levofloxacin' -1 -2 
+1092,297,1154343 -1 1154343 -1  -2 ,'Albuterol' -1 'Albuterol' -1 -2 
+885,211,956874 -1 1346823 -1  -2 ,'Furosemide' -1 'carvedilol' -1 -2 
+1066,74,956874 -1 19121608 -1  -2 ,'Furosemide' -1 'Influenza virus vaccine' -1 -2 
+1449,95,19049105 -1 956874 -1  -2 ,'Potassium Chloride' -1 'Furosemide' -1 -2 
+1195,149,1734104 -1 1734104 -1  -2 ,'Azithromycin' -1 'Azithromycin' -1 -2 
+1518,76,19049105 -1 19049105 -1  -2 ,'Potassium Chloride' -1 'Potassium Chloride' -1 -2 
+863,218,956874 -1 1308216 -1  -2 ,'Furosemide' -1 'Lisinopril' -1 -2 
+830,67,1734104 -1 19121608 -1  -2 ,'Azithromycin' -1 'Influenza virus vaccine' -1 -2 
+1027,145,956874 -1 1742253 -1  -2 ,'Furosemide' -1 'Levofloxacin' -1 -2 
+931,121,1786621 -1 1713332 -1  -2 ,'Cephalexin' -1 'Amoxicillin' -1 -2 
+868,188,1551099 -1 1551099 -1  -2 ,'Prednisone' -1 'Prednisone' -1 -2 
+927,159,1734104 -1 956874 -1  -2 ,'Azithromycin' -1 'Furosemide' -1 -2 
+887,215,1308216 -1 1174888 -1  -2 ,'Lisinopril' -1 'Hydrocodone' -1 -2 
+881,140,1742253 -1 1713332 -1  -2 ,'Levofloxacin' -1 'Amoxicillin' -1 -2 
+864,310,1149380 -1 1149380 -1  -2 ,'fluticasone' -1 'fluticasone' -1 -2 
+824,77,19049105 -1 1797513 -1  -2 ,'Potassium Chloride' -1 'Ciprofloxacin' -1 -2 
+1185,84,19049105 -1 1713332 -1  -2 ,'Potassium Chloride' -1 'Amoxicillin' -1 -2 
+1056,150,1713332 -1 1734104 -1  -2 ,'Amoxicillin' -1 'Azithromycin' -1 -2 
+838,206,956874 -1 1506270 -1  -2 ,'Furosemide' -1 'Methylprednisolone' -1 -2 
+1153,123,1786621 -1 1174888 -1  -2 ,'Cephalexin' -1 'Hydrocodone' -1 -2 
+1087,158,956874 -1 1734104 -1  -2 ,'Furosemide' -1 'Azithromycin' -1 -2 
+1066,173,1713332 -1 956874 -1  -2 ,'Amoxicillin' -1 'Furosemide' -1 -2 
+1017,66,19049105 -1 19121608 -1  -2 ,'Potassium Chloride' -1 'Influenza virus vaccine' -1 -2 
+861,155,1734104 -1 1154343 -1  -2 ,'Azithromycin' -1 'Albuterol' -1 -2 
+1341,72,1125315 -1 19121608 -1  -2 ,'Acetaminophen' -1 'Influenza virus vaccine' -1 -2 
+935,68,1713332 -1 19121608 -1  -2 ,'Amoxicillin' -1 'Influenza virus vaccine' -1 -2 
+915,120,1713332 -1 1786621 -1  -2 ,'Amoxicillin' -1 'Cephalexin' -1 -2 
+881,146,1742253 -1 956874 -1  -2 ,'Levofloxacin' -1 'Furosemide' -1 -2 
+861,138,1742253 -1 1734104 -1  -2 ,'Levofloxacin' -1 'Azithromycin' -1 -2 
+859,235,1174888 -1 1153013 -1  -2 ,'Hydrocodone' -1 'Promethazine' -1 -2 
+852,139,1713332 -1 1742253 -1  -2 ,'Amoxicillin' -1 'Levofloxacin' -1 -2 
+848,224,956874 -1 1307046 -1  -2 ,'Furosemide' -1 'Metoprolol' -1 -2 
+846,127,1786621 -1 956874 -1  -2 ,'Cephalexin' -1 'Furosemide' -1 -2 
+844,89,1154343 -1 19049105 -1  -2 ,'Albuterol' -1 'Potassium Chloride' -1 -2 
+834,85,19049105 -1 1551099 -1  -2 ,'Potassium Chloride' -1 'Prednisone' -1 -2 
+827,119,956874 -1 1797513 -1  -2 ,'Furosemide' -1 'Ciprofloxacin' -1 -2 
+2313,240,1174888 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 -2 
+2158,231,1174888 -1 1174888 -1  -2 ,'Hydrocodone' -1 'Hydrocodone' -1 -2 
+1430,87,1174888 -1 19049105 -1  -2 ,'Hydrocodone' -1 'Potassium Chloride' -1 -2 
+1318,125,1786621 -1 1125315 -1  -2 ,'Cephalexin' -1 'Acetaminophen' -1 -2 
+1274,153,1734104 -1 1174888 -1  -2 ,'Azithromycin' -1 'Hydrocodone' -1 -2 
+1267,172,956874 -1 1713332 -1  -2 ,'Furosemide' -1 'Amoxicillin' -1 -2 
+1144,205,1506270 -1 1125315 -1  -2 ,'Methylprednisolone' -1 'Acetaminophen' -1 -2 
+1069,83,1713332 -1 19049105 -1  -2 ,'Amoxicillin' -1 'Potassium Chloride' -1 -2 
+1043,151,1734104 -1 1713332 -1  -2 ,'Azithromycin' -1 'Amoxicillin' -1 -2 
+1033,115,1174888 -1 1797513 -1  -2 ,'Hydrocodone' -1 'Ciprofloxacin' -1 -2 
+993,301,956874 -1 1154343 -1  -2 ,'Furosemide' -1 'Albuterol' -1 -2 
+934,80,19049105 -1 1742253 -1  -2 ,'Potassium Chloride' -1 'Levofloxacin' -1 -2 
+914,199,1125315 -1 1539403 -1  -2 ,'Acetaminophen' -1 'Simvastatin' -1 -2 
+903,81,1734104 -1 19049105 -1  -2 ,'Azithromycin' -1 'Potassium Chloride' -1 -2 
+897,78,19049105 -1 1786621 -1  -2 ,'Potassium Chloride' -1 'Cephalexin' -1 -2 
+886,79,1742253 -1 19049105 -1  -2 ,'Levofloxacin' -1 'Potassium Chloride' -1 -2 
+840,69,19121608 -1 1713332 -1  -2 ,'Influenza virus vaccine' -1 'Amoxicillin' -1 -2 
+839,302,1154343 -1 956874 -1  -2 ,'Albuterol' -1 'Furosemide' -1 -2 
+817,169,1713332 -1 1154343 -1  -2 ,'Amoxicillin' -1 'Albuterol' -1 -2 
+813,154,1154343 -1 1734104 -1  -2 ,'Albuterol' -1 'Azithromycin' -1 -2 
+813,86,19049105 -1 1506270 -1  -2 ,'Potassium Chloride' -1 'Methylprednisolone' -1 -2 
+2756,314,1125315 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 -2 
+1509,130,1713332 1759842 -1  -2 ,'Amoxicillin' 'Clavulanate' -1 -2 
+1963,321,956874 -1 1125315 -1  -2 ,'Furosemide' -1 'Acetaminophen' -1 -2 
+1212,113,1705674 1836430 -1  -2 ,'Trimethoprim' 'Sulfamethoxazole' -1 -2 
+863,311,1137529 1149380 -1  -2 ,'salmeterol' 'fluticasone' -1 -2 
+908,433,967823 986417 -1  -2 ,'Sodium Chloride' 'POLYETHYLENE GLYCOL 3350' -1 -2 
+1261,305,1125315 1153664 -1  -2 ,'Acetaminophen' 'Propoxyphene' -1 -2 
+1165,437,956874 -1 956874 -1 956874 -1  -2 ,'Furosemide' -1 'Furosemide' -1 'Furosemide' -1 -2 
+1553,156,1125315 -1 1734104 -1  -2 ,'Acetaminophen' -1 'Azithromycin' -1 -2 
+1418,244,1174888 -1 956874 -1  -2 ,'Hydrocodone' -1 'Furosemide' -1 -2 
+812,228,1125315 1201620 -1  -2 ,'Acetaminophen' 'Codeine' -1 -2 
+952,186,1713332 -1 1713332 -1 1713332 -1  -2 ,'Amoxicillin' -1 'Amoxicillin' -1 'Amoxicillin' -1 -2 
+1113,70,1174888 -1 19121608 -1  -2 ,'Hydrocodone' -1 'Influenza virus vaccine' -1 -2 
+866,112,19049105 -1 19049105 -1 19049105 -1  -2 ,'Potassium Chloride' -1 'Potassium Chloride' -1 'Potassium Chloride' -1 -2 
+949,221,1307046 -1 1174888 -1  -2 ,'Metoprolol' -1 'Hydrocodone' -1 -2 
+901,193,956874 -1 1551099 -1  -2 ,'Furosemide' -1 'Prednisone' -1 -2 
+1174,142,1742253 -1 1174888 -1  -2 ,'Levofloxacin' -1 'Hydrocodone' -1 -2 
+965,126,956874 -1 1786621 -1  -2 ,'Furosemide' -1 'Cephalexin' -1 -2 
+1033,82,19049105 -1 1734104 -1  -2 ,'Potassium Chloride' -1 'Azithromycin' -1 -2 
+1015,216,1125315 -1 1308216 -1  -2 ,'Acetaminophen' -1 'Lisinopril' -1 -2 
+1797,170,1125315 -1 1713332 -1  -2 ,'Acetaminophen' -1 'Amoxicillin' -1 -2 
+1490,157,1734104 -1 1125315 -1  -2 ,'Azithromycin' -1 'Acetaminophen' -1 -2 
+978,71,19121608 -1 1174888 -1  -2 ,'Influenza virus vaccine' -1 'Hydrocodone' -1 -2 
+896,90,19049105 -1 1154343 -1  -2 ,'Potassium Chloride' -1 'Albuterol' -1 -2 
+853,320,1125315 -1 974166 -1  -2 ,'Acetaminophen' -1 'Hydrochlorothiazide' -1 -2 
+1044,217,1308216 -1 1125315 -1  -2 ,'Lisinopril' -1 'Acetaminophen' -1 -2 
+834,137,1734104 -1 1742253 -1  -2 ,'Azithromycin' -1 'Levofloxacin' -1 -2 
+1525,167,1713332 -1 1174888 -1  -2 ,'Amoxicillin' -1 'Hydrocodone' -1 -2 
+1666,243,956874 -1 1174888 -1  -2 ,'Furosemide' -1 'Hydrocodone' -1 -2 
+1356,143,1125315 -1 1742253 -1  -2 ,'Acetaminophen' -1 'Levofloxacin' -1 -2 
+921,442,956874 -1 19049105 -1 956874 -1  -2 ,'Furosemide' -1 'Potassium Chloride' -1 'Furosemide' -1 -2 
+906,210,1346823 -1 1125315 -1  -2 ,'carvedilol' -1 'Acetaminophen' -1 -2 
+821,168,1154343 -1 1713332 -1  -2 ,'Albuterol' -1 'Amoxicillin' -1 -2 
+1260,298,1125315 -1 1154343 -1  -2 ,'Acetaminophen' -1 'Albuterol' -1 -2 
+1119,122,1174888 -1 1786621 -1  -2 ,'Hydrocodone' -1 'Cephalexin' -1 -2 
+896,319,974166 -1 1125315 -1  -2 ,'Hydrochlorothiazide' -1 'Acetaminophen' -1 -2 
+836,100,19049105 -1 956874 -1 19049105 -1  -2 ,'Potassium Chloride' -1 'Furosemide' -1 'Potassium Chloride' -1 -2 
+826,220,1174888 -1 1307046 -1  -2 ,'Hydrocodone' -1 'Metoprolol' -1 -2 
+806,165,1713332 -1 1506270 -1  -2 ,'Amoxicillin' -1 'Methylprednisolone' -1 -2 
+831,457,956874 -1 19049105 -1 19049105 -1  -2 ,'Furosemide' -1 'Potassium Chloride' -1 'Potassium Chloride' -1 -2 
+1547,88,19049105 -1 1174888 -1  -2 ,'Potassium Chloride' -1 'Hydrocodone' -1 -2 
+939,309,1153013 -1 1125315 -1  -2 ,'Promethazine' -1 'Acetaminophen' -1 -2 
+1111,118,1797513 -1 1125315 -1  -2 ,'Ciprofloxacin' -1 'Acetaminophen' -1 -2 
+1002,190,1551099 -1 1174888 -1  -2 ,'Prednisone' -1 'Hydrocodone' -1 -2 
+861,212,1310149 -1 1125315 -1  -2 ,'Warfarin' -1 'Acetaminophen' -1 -2 
+860,197,1125315 -1 1545958 -1  -2 ,'Acetaminophen' -1 'atorvastatin' -1 -2 
+813,99,19049105 -1 19049105 -1 956874 -1  -2 ,'Potassium Chloride' -1 'Potassium Chloride' -1 'Furosemide' -1 -2 
+807,245,1174888 -1 903963 -1  -2 ,'Hydrocodone' -1 'Triamcinolone' -1 -2 
+1069,202,1174888 -1 1506270 -1  -2 ,'Hydrocodone' -1 'Methylprednisolone' -1 -2 
+1050,203,1506270 -1 1174888 -1  -2 ,'Methylprednisolone' -1 'Hydrocodone' -1 -2 
+990,312,1125315 -1 1149380 -1  -2 ,'Acetaminophen' -1 'fluticasone' -1 -2 
+979,306,1125315 -1 1153664 -1  -2 ,'Acetaminophen' -1 'Propoxyphene' -1 -2 
+870,209,1125315 -1 1346823 -1  -2 ,'Acetaminophen' -1 'carvedilol' -1 -2 
+850,131,1713332 -1 1759842 -1  -2 ,'Amoxicillin' -1 'Clavulanate' -1 -2 
+1678,322,1125315 -1 956874 -1  -2 ,'Acetaminophen' -1 'Furosemide' -1 -2 
+1159,73,19121608 -1 1125315 -1  -2 ,'Influenza virus vaccine' -1 'Acetaminophen' -1 -2 
+1036,222,1125315 -1 1307046 -1  -2 ,'Acetaminophen' -1 'Metoprolol' -1 -2 
+979,129,1786621 -1 1125315 1174888 -1  -2 ,'Cephalexin' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+960,313,1149380 -1 1125315 -1  -2 ,'fluticasone' -1 'Acetaminophen' -1 -2 
+880,443,956874 -1 956874 -1 19049105 -1  -2 ,'Furosemide' -1 'Furosemide' -1 'Potassium Chloride' -1 -2 
+1709,91,1125315 -1 19049105 -1  -2 ,'Acetaminophen' -1 'Potassium Chloride' -1 -2 
+1348,124,1125315 -1 1786621 -1  -2 ,'Acetaminophen' -1 'Cephalexin' -1 -2 
+1208,117,1125315 -1 1797513 -1  -2 ,'Acetaminophen' -1 'Ciprofloxacin' -1 -2 
+1206,191,1125315 -1 1551099 -1  -2 ,'Acetaminophen' -1 'Prednisone' -1 -2 
+1148,141,1174888 -1 1742253 -1  -2 ,'Hydrocodone' -1 'Levofloxacin' -1 -2 
+1127,223,1307046 -1 1125315 -1  -2 ,'Metoprolol' -1 'Acetaminophen' -1 -2 
+1066,232,1154343 -1 1174888 -1  -2 ,'Albuterol' -1 'Hydrocodone' -1 -2 
+1059,229,1125315 -1 1201620 -1  -2 ,'Acetaminophen' -1 'Codeine' -1 -2 
+1038,316,1124957 -1 1125315 -1  -2 ,'Oxycodone' -1 'Acetaminophen' -1 -2 
+985,308,1125315 -1 1153013 -1  -2 ,'Acetaminophen' -1 'Promethazine' -1 -2 
+962,116,1797513 -1 1174888 -1  -2 ,'Ciprofloxacin' -1 'Hydrocodone' -1 -2 
+956,324,1125315 -1 903963 -1  -2 ,'Acetaminophen' -1 'Triamcinolone' -1 -2 
+929,198,1545958 -1 1125315 -1  -2 ,'atorvastatin' -1 'Acetaminophen' -1 -2 
+888,10,939506 -1  -2 ,'Sodium Bicarbonate' -1 -2 
+881,96,19049105 -1 956874 -1 956874 -1  -2 ,'Potassium Chloride' -1 'Furosemide' -1 'Furosemide' -1 -2 
+2388,239,1125315 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 -2 
+1787,92,19049105 -1 1125315 -1  -2 ,'Potassium Chloride' -1 'Acetaminophen' -1 -2 
+1751,171,1713332 -1 1125315 -1  -2 ,'Amoxicillin' -1 'Acetaminophen' -1 -2 
+863,435,939506 967823 -1  -2 ,'Sodium Bicarbonate' 'Sodium Chloride' -1 -2 
+814,444,956874 -1 956874 -1 956874 -1 956874 -1  -2 ,'Furosemide' -1 'Furosemide' -1 'Furosemide' -1 'Furosemide' -1 -2 
+1537,166,1174888 -1 1713332 -1  -2 ,'Hydrocodone' -1 'Amoxicillin' -1 -2 
+1342,144,1742253 -1 1125315 -1  -2 ,'Levofloxacin' -1 'Acetaminophen' -1 -2 
+1338,152,1174888 -1 1734104 -1  -2 ,'Hydrocodone' -1 'Azithromycin' -1 -2 
+1093,317,1125315 -1 1124957 -1  -2 ,'Acetaminophen' -1 'Oxycodone' -1 -2 
+1378,446,956874 -1 1125315 1174888 -1  -2 ,'Furosemide' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+1238,299,1154343 -1 1125315 -1  -2 ,'Albuterol' -1 'Acetaminophen' -1 -2 
+809,196,1545958 -1 1174888 -1  -2 ,'atorvastatin' -1 'Hydrocodone' -1 -2 
+824,214,1174888 -1 1308216 -1  -2 ,'Hydrocodone' -1 'Lisinopril' -1 -2 
+1026,307,1153664 -1 1125315 -1  -2 ,'Propoxyphene' -1 'Acetaminophen' -1 -2 
+843,187,1125315 -1 1705674 -1  -2 ,'Acetaminophen' -1 'Trimethoprim' -1 -2 
+860,200,1539403 -1 1125315 -1  -2 ,'Simvastatin' -1 'Acetaminophen' -1 -2 
+1089,233,1174888 -1 1154343 -1  -2 ,'Hydrocodone' -1 'Albuterol' -1 -2 
+1150,330,1125315 1174888 -1 956874 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Furosemide' -1 -2 
+1004,134,1125315 -1 1759842 -1  -2 ,'Acetaminophen' -1 'Clavulanate' -1 -2 
+1023,230,1201620 -1 1125315 -1  -2 ,'Codeine' -1 'Acetaminophen' -1 -2 
+903,323,903963 -1 1125315 -1  -2 ,'Triamcinolone' -1 'Acetaminophen' -1 -2 
+979,325,1125315 -1 956874 -1 956874 -1  -2 ,'Acetaminophen' -1 'Furosemide' -1 'Furosemide' -1 -2 
+1174,192,1551099 -1 1125315 -1  -2 ,'Prednisone' -1 'Acetaminophen' -1 -2 
+918,405,1125315 1174888 -1 19121608 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Influenza virus vaccine' -1 -2 
+972,428,1125315 -1 1713332 -1 1713332 -1  -2 ,'Acetaminophen' -1 'Amoxicillin' -1 'Amoxicillin' -1 -2 
+842,237,1174888 -1 1149380 -1  -2 ,'Hydrocodone' -1 'fluticasone' -1 -2 
+911,402,1125315 1174888 -1 1786621 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Cephalexin' -1 -2 
+806,225,1307046 -1 1125315 1174888 -1  -2 ,'Metoprolol' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+1004,189,1174888 -1 1551099 -1  -2 ,'Hydrocodone' -1 'Prednisone' -1 -2 
+1063,161,1734104 -1 1125315 1174888 -1  -2 ,'Azithromycin' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+880,227,1201620 -1 1174888 -1  -2 ,'Codeine' -1 'Hydrocodone' -1 -2 
+863,207,1506270 -1 1125315 1174888 -1  -2 ,'Methylprednisolone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+1215,204,1125315 -1 1506270 -1  -2 ,'Acetaminophen' -1 'Methylprednisolone' -1 -2 
+904,401,1125315 1174888 -1 1742253 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Levofloxacin' -1 -2 
+834,236,1149380 -1 1174888 -1  -2 ,'fluticasone' -1 'Hydrocodone' -1 -2 
+817,318,1125315 -1 986417 -1  -2 ,'Acetaminophen' -1 'POLYETHYLENE GLYCOL 3350' -1 -2 
+1147,342,1125315 -1 1125315 -1 1713332 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Amoxicillin' -1 -2 
+1085,438,956874 -1 1125315 -1 956874 -1  -2 ,'Furosemide' -1 'Acetaminophen' -1 'Furosemide' -1 -2 
+906,440,956874 -1 1174888 -1 956874 -1  -2 ,'Furosemide' -1 'Hydrocodone' -1 'Furosemide' -1 -2 
+887,241,1124957 -1 1174888 -1  -2 ,'Oxycodone' -1 'Hydrocodone' -1 -2 
+830,431,1125315 -1 19049105 -1 19049105 -1  -2 ,'Acetaminophen' -1 'Potassium Chloride' -1 'Potassium Chloride' -1 -2 
+1054,439,956874 -1 956874 -1 1125315 -1  -2 ,'Furosemide' -1 'Furosemide' -1 'Acetaminophen' -1 -2 
+895,441,956874 -1 956874 -1 1174888 -1  -2 ,'Furosemide' -1 'Furosemide' -1 'Hydrocodone' -1 -2 
+877,450,956874 -1 1125315 -1 19049105 -1  -2 ,'Furosemide' -1 'Acetaminophen' -1 'Potassium Chloride' -1 -2 
+871,296,1163944 -1 1125315 -1  -2 ,'Guaifenesin' -1 'Acetaminophen' -1 -2 
+837,226,1174888 -1 1201620 -1  -2 ,'Hydrocodone' -1 'Codeine' -1 -2 
+835,403,1125315 1174888 -1 1797513 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Ciprofloxacin' -1 -2 
+825,75,19121608 -1 1125315 1174888 -1  -2 ,'Influenza virus vaccine' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+913,248,1174888 -1 956874 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Furosemide' -1 'Acetaminophen' -1 -2 
+897,242,1174888 -1 1124957 -1  -2 ,'Hydrocodone' -1 'Oxycodone' -1 -2 
+829,184,1713332 -1 1713332 -1 1174888 -1  -2 ,'Amoxicillin' -1 'Amoxicillin' -1 'Hydrocodone' -1 -2 
+1996,335,1125315 -1 1125315 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+851,434,939506 986417 -1  -2 ,'Sodium Bicarbonate' 'POLYETHYLENE GLYCOL 3350' -1 -2 
+976,429,1125315 -1 1713332 1759842 -1  -2 ,'Acetaminophen' -1 'Amoxicillin' 'Clavulanate' -1 -2 
+1885,331,1125315 -1 1125315 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+1271,175,1713332 -1 1125315 1174888 -1  -2 ,'Amoxicillin' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+1282,102,19049105 -1 1125315 1174888 -1  -2 ,'Potassium Chloride' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+821,246,1174888 -1 956874 -1 956874 -1  -2 ,'Hydrocodone' -1 'Furosemide' -1 'Furosemide' -1 -2 
+859,332,1125315 1153664 -1 1125315 -1  -2 ,'Acetaminophen' 'Propoxyphene' -1 'Acetaminophen' -1 -2 
+808,114,1125315 -1 1836430 -1  -2 ,'Acetaminophen' -1 'Sulfamethoxazole' -1 -2 
+1160,404,1125315 1174888 -1 19049105 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Potassium Chloride' -1 -2 
+933,135,1759842 -1 1125315 -1  -2 ,'Clavulanate' -1 'Acetaminophen' -1 -2 
+1056,400,1125315 1174888 -1 1734104 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Azithromycin' -1 -2 
+902,106,19049105 -1 1125315 -1 19049105 -1  -2 ,'Potassium Chloride' -1 'Acetaminophen' -1 'Potassium Chloride' -1 -2 
+1439,279,1174888 -1 1174888 -1 1174888 -1  -2 ,'Hydrocodone' -1 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+870,234,1153664 -1 1174888 -1  -2 ,'Propoxyphene' -1 'Hydrocodone' -1 -2 
+1249,399,1125315 1174888 -1 1713332 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Amoxicillin' -1 -2 
+875,304,1154343 -1 1125315 1174888 -1  -2 ,'Albuterol' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+860,98,19049105 -1 956874 -1 1125315 -1  -2 ,'Potassium Chloride' -1 'Furosemide' -1 'Acetaminophen' -1 -2 
+953,178,1713332 -1 1713332 -1 1125315 -1  -2 ,'Amoxicillin' -1 'Amoxicillin' -1 'Acetaminophen' -1 -2 
+955,148,1742253 -1 1125315 1174888 -1  -2 ,'Levofloxacin' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+861,378,1125315 1174888 -1 1154343 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Albuterol' -1 -2 
+1245,445,956874 -1 1125315 -1 1125315 -1  -2 ,'Furosemide' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+879,132,1174888 -1 1759842 -1  -2 ,'Hydrocodone' -1 'Clavulanate' -1 -2 
+844,194,1551099 -1 1125315 1174888 -1  -2 ,'Prednisone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+832,133,1759842 -1 1174888 -1  -2 ,'Clavulanate' -1 'Hydrocodone' -1 -2 
+1062,326,1125315 -1 1125315 -1 956874 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Furosemide' -1 -2 
+1080,448,956874 -1 1125315 -1 1174888 -1  -2 ,'Furosemide' -1 'Acetaminophen' -1 'Hydrocodone' -1 -2 
+990,455,956874 -1 1174888 -1 1174888 -1  -2 ,'Furosemide' -1 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+903,347,1125315 -1 1786621 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Cephalexin' -1 'Acetaminophen' -1 -2 
+867,398,1125315 1174888 -1 1506270 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Methylprednisolone' -1 -2 
+947,179,1713332 -1 1125315 -1 1713332 -1  -2 ,'Amoxicillin' -1 'Acetaminophen' -1 'Amoxicillin' -1 -2 
+846,97,19049105 -1 1125315 -1 956874 -1  -2 ,'Potassium Chloride' -1 'Acetaminophen' -1 'Furosemide' -1 -2 
+1918,338,1125315 1174888 -1 1125315 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+1627,337,1125315 -1 1125315 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Hydrocodone' -1 -2 
+858,383,1125315 -1 1734104 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Azithromycin' -1 'Hydrocodone' -1 -2 
+1474,254,1174888 -1 1125315 -1 1174888 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Hydrocodone' -1 -2 
+1001,344,1125315 -1 1125315 -1 1734104 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Azithromycin' -1 -2 
+979,343,1125315 -1 1734104 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Azithromycin' -1 'Acetaminophen' -1 -2 
+879,449,956874 -1 19049105 -1 1125315 -1  -2 ,'Furosemide' -1 'Potassium Chloride' -1 'Acetaminophen' -1 -2 
+925,280,1174888 -1 1713332 -1 1174888 -1  -2 ,'Hydrocodone' -1 'Amoxicillin' -1 'Hydrocodone' -1 -2 
+908,386,1125315 -1 1174888 -1 19049105 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Potassium Chloride' -1 -2 
+874,283,1174888 -1 19049105 -1 1174888 -1  -2 ,'Hydrocodone' -1 'Potassium Chloride' -1 'Hydrocodone' -1 -2 
+839,162,1734104 -1 1174888 -1 1125315 -1  -2 ,'Azithromycin' -1 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+1136,341,1125315 -1 1713332 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Amoxicillin' -1 'Acetaminophen' -1 -2 
+1123,174,1713332 -1 1125315 -1 1125315 -1  -2 ,'Amoxicillin' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+1015,382,1125315 -1 1174888 -1 1713332 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Amoxicillin' -1 -2 
+986,177,1713332 -1 1125315 -1 1174888 -1  -2 ,'Amoxicillin' -1 'Acetaminophen' -1 'Hydrocodone' -1 -2 
+908,183,1713332 -1 1174888 -1 1174888 -1  -2 ,'Amoxicillin' -1 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+830,163,1734104 -1 1125315 -1 1174888 -1  -2 ,'Azithromycin' -1 'Acetaminophen' -1 'Hydrocodone' -1 -2 
+1853,252,1174888 -1 1125315 1174888 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+1772,380,1125315 1174888 -1 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+1156,101,19049105 -1 1125315 -1 1125315 -1  -2 ,'Potassium Chloride' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+1053,447,956874 -1 1174888 -1 1125315 -1  -2 ,'Furosemide' -1 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+993,381,1125315 -1 1713332 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Amoxicillin' -1 'Hydrocodone' -1 -2 
+979,255,1174888 -1 1713332 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Amoxicillin' -1 'Acetaminophen' -1 -2 
+920,328,1125315 -1 1174888 -1 956874 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Furosemide' -1 -2 
+911,259,1174888 -1 19049105 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Potassium Chloride' -1 'Acetaminophen' -1 -2 
+864,147,1742253 -1 1125315 -1 1125315 -1  -2 ,'Levofloxacin' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+855,294,1174888 -1 1713332 -1 1713332 -1  -2 ,'Hydrocodone' -1 'Amoxicillin' -1 'Amoxicillin' -1 -2 
+844,250,1174888 -1 956874 -1 1174888 -1  -2 ,'Hydrocodone' -1 'Furosemide' -1 'Hydrocodone' -1 -2 
+842,348,1125315 -1 1125315 -1 1786621 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Cephalexin' -1 -2 
+818,282,1174888 -1 1174888 -1 1734104 -1  -2 ,'Hydrocodone' -1 'Hydrocodone' -1 'Azithromycin' -1 -2 
+1654,336,1125315 -1 1174888 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+849,458,939506 967823 986417 -1  -2 ,'Sodium Bicarbonate' 'Sodium Chloride' 'POLYETHYLENE GLYCOL 3350' -1 -2 
+903,180,1713332 1759842 -1 1125315 -1  -2 ,'Amoxicillin' 'Clavulanate' -1 'Acetaminophen' -1 -2 
+1641,407,1125315 1174888 -1 1125315 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+807,427,1125315 -1 1705674 1836430 -1  -2 ,'Acetaminophen' -1 'Trimethoprim' 'Sulfamethoxazole' -1 -2 
+1093,327,1125315 -1 956874 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Furosemide' -1 'Acetaminophen' -1 -2 
+853,295,1174888 -1 1713332 1759842 -1  -2 ,'Hydrocodone' -1 'Amoxicillin' 'Clavulanate' -1 -2 
+864,105,19049105 -1 19049105 -1 1125315 -1  -2 ,'Potassium Chloride' -1 'Potassium Chloride' -1 'Acetaminophen' -1 -2 
+866,351,1125315 -1 1125315 -1 19121608 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Influenza virus vaccine' -1 -2 
+819,185,1713332 -1 1174888 -1 1713332 -1  -2 ,'Amoxicillin' -1 'Hydrocodone' -1 'Amoxicillin' -1 -2 
+964,160,1734104 -1 1125315 -1 1125315 -1  -2 ,'Azithromycin' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+942,110,19049105 -1 1174888 -1 1174888 -1  -2 ,'Potassium Chloride' -1 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+815,333,1125315 -1 1154343 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Albuterol' -1 'Acetaminophen' -1 -2 
+887,128,1786621 -1 1125315 -1 1125315 -1  -2 ,'Cephalexin' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+891,247,1174888 -1 1125315 -1 956874 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Furosemide' -1 -2 
+1010,104,19049105 -1 1125315 -1 1174888 -1  -2 ,'Potassium Chloride' -1 'Acetaminophen' -1 'Hydrocodone' -1 -2 
+845,346,1125315 -1 1125315 -1 1742253 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Levofloxacin' -1 -2 
+822,339,1125315 -1 1506270 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Methylprednisolone' -1 'Acetaminophen' -1 -2 
+1053,350,1125315 -1 1125315 -1 19049105 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Potassium Chloride' -1 -2 
+1004,285,1174888 -1 1174888 -1 1174888 -1 1174888 -1  -2 ,'Hydrocodone' -1 'Hydrocodone' -1 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+981,256,1174888 -1 1125315 -1 1713332 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Amoxicillin' -1 -2 
+915,329,1125315 -1 956874 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Furosemide' -1 'Hydrocodone' -1 -2 
+850,257,1174888 -1 1734104 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Azithromycin' -1 'Acetaminophen' -1 -2 
+832,303,1154343 -1 1125315 -1 1125315 -1  -2 ,'Albuterol' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+1585,251,1174888 -1 1125315 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+1535,379,1125315 -1 1174888 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+1099,349,1125315 -1 19049105 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Potassium Chloride' -1 'Acetaminophen' -1 -2 
+1482,253,1174888 -1 1174888 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+1244,408,1125315 1174888 -1 1125315 -1 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 'Hydrocodone' -1 -2 
+905,384,1125315 -1 1174888 -1 1734104 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Azithromycin' -1 -2 
+848,430,1125315 -1 1713332 -1 1125315 1174888 -1  -2 ,'Acetaminophen' -1 'Amoxicillin' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+822,284,1174888 -1 1174888 -1 19049105 -1  -2 ,'Hydrocodone' -1 'Hydrocodone' -1 'Potassium Chloride' -1 -2 
+821,249,1174888 -1 1174888 -1 956874 -1  -2 ,'Hydrocodone' -1 'Hydrocodone' -1 'Furosemide' -1 -2 
+1169,356,1125315 -1 1125315 -1 1125315 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Hydrocodone' -1 -2 
+986,103,19049105 -1 1174888 -1 1125315 -1  -2 ,'Potassium Chloride' -1 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+904,345,1125315 -1 1742253 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Levofloxacin' -1 'Acetaminophen' -1 -2 
+873,453,956874 -1 1125315 1174888 -1 1125315 -1  -2 ,'Furosemide' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+822,334,1125315 -1 1125315 -1 1154343 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Albuterol' -1 -2 
+1419,355,1125315 -1 1125315 -1 1125315 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+1202,262,1174888 -1 1125315 1174888 -1 1174888 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+981,176,1713332 -1 1174888 -1 1125315 -1  -2 ,'Amoxicillin' -1 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+912,281,1174888 -1 1174888 -1 1713332 -1  -2 ,'Hydrocodone' -1 'Hydrocodone' -1 'Amoxicillin' -1 -2 
+905,452,956874 -1 1125315 -1 1125315 1174888 -1  -2 ,'Furosemide' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+901,260,1174888 -1 1125315 -1 19049105 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Potassium Chloride' -1 -2 
+860,258,1174888 -1 1125315 -1 1734104 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Azithromycin' -1 -2 
+825,352,1125315 -1 1125315 1174888 -1 1713332 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Amoxicillin' -1 -2 
+809,451,956874 -1 1125315 1174888 -1 1174888 -1  -2 ,'Furosemide' -1 'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+1368,360,1125315 -1 1125315 1174888 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+948,385,1125315 -1 19049105 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Potassium Chloride' -1 'Hydrocodone' -1 -2 
+1359,370,1125315 -1 1125315 -1 1125315 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+838,340,1125315 -1 1125315 -1 1506270 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Methylprednisolone' -1 -2 
+855,456,956874 -1 1174888 -1 1125315 1174888 -1  -2 ,'Furosemide' -1 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+808,182,1713332 -1 1125315 1174888 -1 1125315 -1  -2 ,'Amoxicillin' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+1247,286,1174888 -1 1174888 -1 1125315 1174888 -1  -2 ,'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+875,107,19049105 -1 1125315 -1 1125315 1174888 -1  -2 ,'Potassium Chloride' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+1337,415,1125315 1174888 -1 1125315 -1 1125315 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+1006,287,1174888 -1 1174888 -1 1125315 -1 1174888 -1  -2 ,'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' -1 'Hydrocodone' -1 -2 
+846,454,956874 -1 1125315 -1 1125315 -1 1125315 -1  -2 ,'Furosemide' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+1360,388,1125315 -1 1174888 -1 1125315 1174888 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+1066,387,1125315 -1 1174888 -1 1174888 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+838,181,1713332 -1 1125315 -1 1125315 1174888 -1  -2 ,'Amoxicillin' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+821,108,19049105 -1 1125315 1174888 -1 1125315 -1  -2 ,'Potassium Chloride' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+1181,406,1125315 1174888 -1 1174888 -1 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+1176,357,1125315 -1 1125315 -1 1174888 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+1234,409,1125315 1174888 -1 1174888 -1 1125315 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+1157,392,1125315 -1 1174888 -1 1125315 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+1062,265,1174888 -1 1125315 -1 1174888 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+1057,264,1174888 -1 1125315 -1 1125315 -1 1174888 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Hydrocodone' -1 -2 
+1056,290,1174888 -1 1174888 -1 1125315 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+807,109,19049105 -1 1125315 -1 1125315 -1 1125315 -1  -2 ,'Potassium Chloride' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+1093,389,1125315 -1 1174888 -1 1125315 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' -1 'Hydrocodone' -1 -2 
+999,288,1174888 -1 1174888 -1 1174888 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+811,111,19049105 -1 1174888 -1 1125315 1174888 -1  -2 ,'Potassium Chloride' -1 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+1286,263,1174888 -1 1125315 -1 1125315 1174888 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+1285,354,1125315 -1 1125315 1174888 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+1258,267,1174888 -1 1125315 1174888 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+1118,353,1125315 -1 1125315 -1 1174888 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+1104,390,1125315 -1 1174888 -1 1174888 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+1201,362,1125315 -1 1125315 1174888 -1 1125315 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+825,432,1125315 -1 19049105 -1 1125315 1174888 -1  -2 ,'Acetaminophen' -1 'Potassium Chloride' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+990,371,1125315 -1 1125315 -1 1125315 -1 1125315 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+1037,261,1174888 -1 1125315 -1 1174888 -1 1174888 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+1141,273,1174888 -1 1125315 -1 1125315 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+1129,420,1125315 1174888 -1 1125315 1174888 -1 1125315 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+1132,417,1125315 1174888 -1 1125315 -1 1125315 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+1111,269,1174888 -1 1125315 1174888 -1 1125315 1174888 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+1005,359,1125315 -1 1125315 -1 1174888 -1 1125315 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+874,289,1174888 -1 1174888 -1 1174888 -1 1125315 1174888 -1  -2 ,'Hydrocodone' -1 'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+985,361,1125315 -1 1125315 1174888 -1 1125315 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+1082,411,1125315 1174888 -1 1174888 -1 1125315 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+1041,372,1125315 -1 1125315 -1 1125315 -1 1125315 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+1078,423,1125315 1174888 -1 1125315 1174888 -1 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+998,375,1125315 -1 1125315 -1 1125315 1174888 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+933,364,1125315 -1 1125315 1174888 -1 1125315 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 'Hydrocodone' -1 -2 
+853,412,1125315 1174888 -1 1174888 -1 1174888 -1 1125315 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+845,373,1125315 -1 1125315 -1 1125315 -1 1174888 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+891,419,1125315 1174888 -1 1125315 -1 1125315 -1 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Hydrocodone' -1 -2 
+890,291,1174888 -1 1174888 -1 1125315 -1 1125315 1174888 -1  -2 ,'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+873,292,1174888 -1 1174888 -1 1125315 1174888 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+848,374,1125315 -1 1125315 -1 1125315 -1 1125315 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Hydrocodone' -1 -2 
+838,414,1125315 1174888 -1 1174888 -1 1174888 -1 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+955,395,1125315 -1 1174888 -1 1125315 1174888 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+943,391,1125315 -1 1174888 -1 1174888 -1 1125315 1174888 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+968,394,1125315 -1 1174888 -1 1125315 -1 1125315 1174888 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+904,418,1125315 1174888 -1 1125315 -1 1174888 -1 1125315 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+883,410,1125315 1174888 -1 1174888 -1 1125315 -1 1125315 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+875,271,1174888 -1 1125315 1174888 -1 1125315 -1 1174888 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 'Hydrocodone' -1 -2 
+852,293,1174888 -1 1174888 -1 1125315 1174888 -1 1174888 -1  -2 ,'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+848,413,1125315 1174888 -1 1174888 -1 1125315 -1 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' -1 'Hydrocodone' -1 -2 
+830,358,1125315 -1 1125315 -1 1174888 -1 1125315 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+1005,425,1125315 1174888 -1 1125315 1174888 -1 1125315 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+838,393,1125315 -1 1174888 -1 1125315 -1 1125315 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+961,416,1125315 1174888 -1 1125315 -1 1125315 -1 1125315 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+927,266,1174888 -1 1125315 -1 1174888 -1 1125315 1174888 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+950,376,1125315 -1 1125315 -1 1125315 1174888 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+937,363,1125315 -1 1125315 1174888 -1 1174888 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+859,272,1174888 -1 1125315 1174888 -1 1174888 -1 1174888 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+923,396,1125315 -1 1174888 -1 1125315 1174888 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+831,274,1174888 -1 1125315 -1 1125315 -1 1125315 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+849,366,1125315 -1 1125315 1174888 -1 1125315 -1 1125315 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+908,268,1174888 -1 1125315 1174888 -1 1125315 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+883,422,1125315 1174888 -1 1125315 -1 1174888 -1 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+890,277,1174888 -1 1125315 -1 1125315 1174888 -1 1174888 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+910,276,1174888 -1 1125315 -1 1125315 1174888 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+868,270,1174888 -1 1125315 1174888 -1 1174888 -1 1125315 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+943,275,1174888 -1 1125315 -1 1125315 -1 1125315 1174888 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+909,368,1125315 -1 1125315 1174888 -1 1174888 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 'Hydrocodone' -1 -2 
+895,377,1125315 -1 1125315 -1 1125315 1174888 -1 1125315 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+809,426,1125315 1174888 -1 1125315 1174888 -1 1125315 -1 1125315 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 -2 
+855,397,1125315 -1 1174888 -1 1125315 1174888 -1 1125315 1174888 -1  -2 ,'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+855,367,1125315 -1 1125315 1174888 -1 1125315 1174888 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 -2 
+814,424,1125315 1174888 -1 1125315 -1 1174888 -1 1125315 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+828,369,1125315 -1 1125315 1174888 -1 1174888 -1 1125315 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+826,421,1125315 1174888 -1 1125315 -1 1125315 -1 1125315 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+827,278,1174888 -1 1125315 -1 1125315 1174888 -1 1125315 1174888 -1  -2 ,'Hydrocodone' -1 'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+826,365,1125315 -1 1125315 1174888 -1 1125315 1174888 -1 1174888 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' 'Hydrocodone' -1 'Acetaminophen' 'Hydrocodone' -1 'Hydrocodone' -1 -2 

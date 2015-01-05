@@ -1,0 +1,20 @@
+coverage_support,seqId,seq,semantic
+10,4,1518254 -1  -2 ,'Dexamethasone' -1 -2 
+10,2,1742253 -1  -2 ,'Levofloxacin' -1 -2 
+6,11,1124957 -1  -2 ,'Oxycodone' -1 -2 
+6,5,1326303 -1  -2 ,'Digoxin' -1 -2 
+7,12,948078 -1  -2 ,'pantoprazole' -1 -2 
+6,17,1713332 1759842 -1  -2 ,'Amoxicillin' 'Clavulanate' -1 -2 
+5,15,739138 -1  -2 ,'Sertraline' -1 -2 
+7,18,1125315 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 -2 
+7,0,19055720 -1  -2 ,'HEPARIN. BEEF' -1 -2 
+5,14,781039 -1  -2 ,'Alprazolam' -1 -2 
+7,16,956874 19049105 -1  -2 ,'Furosemide' 'Potassium Chloride' -1 -2 
+7,8,1174888 -1  -2 ,'Hydrocodone' -1 -2 
+7,6,1310149 -1  -2 ,'Warfarin' -1 -2 
+7,7,1307046 -1  -2 ,'Metoprolol' -1 -2 
+6,9,1154343 -1  -2 ,'Albuterol' -1 -2 
+6,1,1754994 -1  -2 ,'Fluconazole' -1 -2 
+5,13,791967 -1  -2 ,'Lorazepam' -1 -2 
+5,10,1153013 -1  -2 ,'Promethazine' -1 -2 
+5,3,1551099 -1  -2 ,'Prednisone' -1 -2 

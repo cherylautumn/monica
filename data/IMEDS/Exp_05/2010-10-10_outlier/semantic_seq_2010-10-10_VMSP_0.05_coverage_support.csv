@@ -1,0 +1,48 @@
+coverage_support,seqId,seq,semantic
+24,11,1518254 -1  -2 ,'Dexamethasone' -1 -2 
+22,20,1174888 -1  -2 ,'Hydrocodone' -1 -2 
+22,26,1000560 -1  -2 ,'Ondansetron' -1 -2 
+19,6,1742253 -1  -2 ,'Levofloxacin' -1 -2 
+16,43,1713332 1759842 -1  -2 ,'Amoxicillin' 'Clavulanate' -1 -2 
+11,14,1326303 -1  -2 ,'Digoxin' -1 -2 
+21,2,19055720 -1  -2 ,'HEPARIN. BEEF' -1 -2 
+11,12,1346823 -1  -2 ,'carvedilol' -1 -2 
+13,1,19121608 -1  -2 ,'Influenza virus vaccine' -1 -2 
+11,0,19136030 -1  -2 ,'Saline Solution. Hypertonic' -1 -2 
+19,8,1551099 -1  -2 ,'Prednisone' -1 -2 
+17,23,1153013 -1  -2 ,'Promethazine' -1 -2 
+9,32,906780 -1  -2 ,'Metoclopramide' -1 -2 
+12,30,948078 -1  -2 ,'pantoprazole' -1 -2 
+9,35,791967 -1  -2 ,'Lorazepam' -1 -2 
+8,10,1524674 -1  -2 ,'zoledronic acid' -1 -2 
+13,25,1110410 -1  -2 ,'Morphine' -1 -2 
+10,13,1328165 -1  -2 ,'Diltiazem' -1 -2 
+9,34,903963 -1  -2 ,'Triamcinolone' -1 -2 
+14,24,1129625 -1  -2 ,'Diphenhydramine' -1 -2 
+14,3,1797513 -1  -2 ,'Ciprofloxacin' -1 -2 
+12,22,1154029 -1  -2 ,'Fentanyl' -1 -2 
+11,46,1124957 1125315 -1  -2 ,'Oxycodone' 'Acetaminophen' -1 -2 
+11,4,1786621 -1  -2 ,'Cephalexin' -1 -2 
+10,41,19049105 -1 956874 -1  -2 ,'Potassium Chloride' -1 'Furosemide' -1 -2 
+10,38,744740 -1  -2 ,'zolpidem' -1 -2 
+9,19,1201620 -1  -2 ,'Codeine' -1 -2 
+9,15,1322184 -1  -2 ,'clopidogrel' -1 -2 
+16,45,1125315 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 -2 
+16,21,1154343 -1  -2 ,'Albuterol' -1 -2 
+14,16,1310149 -1  -2 ,'Warfarin' -1 -2 
+14,18,1307046 -1  -2 ,'Metoprolol' -1 -2 
+8,27,986417 -1  -2 ,'POLYETHYLENE GLYCOL 3350' -1 -2 
+9,5,1754994 -1  -2 ,'Fluconazole' -1 -2 
+8,39,708298 -1  -2 ,'Midazolam' -1 -2 
+10,33,904453 -1  -2 ,'Esomeprazole' -1 -2 
+9,42,956874 19049105 -1  -2 ,'Furosemide' 'Potassium Chloride' -1 -2 
+9,29,961047 -1  -2 ,'Ranitidine' -1 -2 
+9,17,1308216 -1  -2 ,'Lisinopril' -1 -2 
+8,40,956874 -1 19049105 -1  -2 ,'Furosemide' -1 'Potassium Chloride' -1 -2 
+8,36,781039 -1  -2 ,'Alprazolam' -1 -2 
+9,28,970250 -1  -2 ,'Spironolactone' -1 -2 
+8,37,752061 -1  -2 ,'Prochlorperazine' -1 -2 
+8,31,907013 -1  -2 ,'Metolazone' -1 -2 
+10,7,1734104 -1  -2 ,'Azithromycin' -1 -2 
+8,44,1713332 -1 956874 -1  -2 ,'Amoxicillin' -1 'Furosemide' -1 -2 
+9,9,1539403 -1  -2 ,'Simvastatin' -1 -2 

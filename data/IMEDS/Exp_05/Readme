@@ -1,0 +1,92 @@
+Exp_05 Note.
+Goal
+	The goal of this experiment is to find out a set of patient's drug sequential patterns which is more influential on patients survival analysis. 
+
+Method
+	1. Firstly, I randomly pick 50,000 Congested Heart Failure(Cghf) patients with a set of features including the following. 
+			<col>ID</col>
+			<col>Gender</col>						
+			<col>BirthYear</col>		
+			<col>Location</col>			
+			<col>Myocardial Infarction</col>
+			<col>Congestive Heart Failure</col>
+			<col>Peripheral Vascular Disease</col>
+			<col>Cerebrovascular Disease</col>
+			<col>Dementia</col>
+			<col>Chronic Pulmonary Disease</col>
+			<col>Rheumatologic Disease</col>
+			<col>Peptic Ulcer Disease</col>
+			<col>Mild Liver Disease</col>
+	 		<col>Diabetes</col> 
+			<col>Diabetes with Chronic Complications</col>
+			<col>Hemiplegia or Paraplegia</col>
+			<col>Renal Disease</col>
+			<col>Moderate or Severe Liver Disease</col>
+			<col>AIDS</col>
+	2. Second, I set a censored date (2005-10-10) and an event type (death) to construct patients survival outcome. Then, patients' profile looks like the following. 
+			ID			Period(day)	Failed	D0	D1		D2			D3	D4	D5	D6	D7	D8	D9...
+			25581938101	13			0		32	1941	9.1706037	0	0	0	0	1	0	0...
+			25996673801	381			1		7	1956	2.0824031	0	0	1	0	0	0	0...
+			25002083602	23			0		32	1950	2.9445035	0	0	0	0	0	0	1...		
+
+	3. Third, according to the patients' profile, I use R to run the cox regression model and use deviance residuals to classify patients into two class, outlier and not-outlier. 
+	   Originally, we hope to get outlier patients whose status is "better than expected" or "worse than expected". However, for those outlier patients I screened, their status are all belonged to "worse than expected". So, I set up another censored date (2010-10-10) to include more patients and run the outlier screen again, but result behaves the same.
+
+	4. Fourth, since I cannot classify patients as "better than expected" or "worse than expected", I kept patients as 4 dataset group for the following sequential pattern mining experiments. 
+			Group 1. 2005-10-10_outlier
+			Group 2. 2005-10-10_notoutlier
+			Group 3. 2010-10-10_outlier
+			Group 4. 2010-10-10_notoutlier
+
+	5. Fifth, for each group, I run 2 sequential pattern mining algorithm, SPADE and VMSP to get high frequency drug sequences. The difference between SPADE and VMSP is that SPADE will list all sequential pattern (SP) but VMSP will only list maximal length SP. 
+	
+	6. Sixth, after I get these SPs, I use them to construct another patient's profile (temporary call it as patient drug sequence profile) which is similar to step 2 instead I replace features D0, D1,.... into SPs. 
+
+	The goal here is that with these SP features and patient survival outcome <Period(day),Failed>, I want to build a cox model with these SP features. However, the size of SP feature set is large and I want to know which features play much influential in the cox model. Therefore, in this step, we need to use some feature selection or feature screening skill. Basically, what I do in this step is I rank these SPs from most influential to the least influential. 
+
+	Here I use 4 scores to rank these SPs.
+		S1. Support. (this is the most naive way)
+		S2. Model Free Screen Score. (Zhu 2011. Model-Free Feature Screening for Ultrahigh-Dimensional Data)
+			  This screen score is proposed to rank features as active or inactive without specifying a regression model. Thus, with their ranking methodology, they can screen out those features which have less influential power for regression model. This paper is the first one to propose this score with model free.
+		S3. Coverage Support. 
+		S4. Coverage Model Free Screen Score. 
+			S3 and S4 are modified from S1 and S2. For Coverage Support, initially, I still keep the SP order as their support from high to low. Next, I pick the SP with highest coverage (briefly, the SP with most patients owned). Then I exclude out those patients with that SP and run next selection iteration. Therefore, in each iteration, I always pick up the SP which cover most patients that have not been uncover. If two SPs have the same coverage, I pick up the one with higher Support. S4 is similar to S3 instead S4 is ranked by model free screen score initially. 
+
+	7. Seventh, with these ranked SPs, I iterativelly add them to the feature set and build cox model by R. Finally, I use risksetAUC package (Heagerty, P.J., Zheng Y. (2005) Survival Model Predictive Accuracy and ROC curves) in R to measure the accuracy for each model with different number of features. 
+
+Result 
+	1. The first unexpected one is that SPs ranked by Model Free Screen Score is not better than ranked by support. I thought Model Free Screen Score should provide higher predictive power, but it is not from my results. It is possible that because the value is binary in the SP feature set. (patient have the SP or not have) 
+
+	2. S3 and S4 performs higher accuracy better than S1 and S2 in most case and S3 and S4 also provide faster way to include important features. I use the bitmap and AND-NOT way to implement S3 and S4, so the runtime is bounded under O(dk) d is the number of features, k is the top-K features I want to rank. 
+
+	3. Folder description.
+		From step 2, I have 4 patient groups so I have 4 folders.
+		 	Group 1. 2005-10-10_outlier
+			Group 2. 2005-10-10_notoutlier
+			Group 3. 2010-10-10_outlier
+			Group 4. 2010-10-10_notoutlier
+
+		From step 5, I run 2 SP mining SPADE and VMSP with 2 pruning thresholds 0.1 and 0.05.
+		From step 6, I run 4 ranking score to rank features.
+			S1. Support. (this is the most naive way)
+			S2. Model Free Screen Score.
+			S3. Coverage Support. 
+			S4. Coverage Model Free Screen Score. 
+
+		Therefore, in each folder there will have 16 ranking results. For example,
+			semantic_seq_2005-10-10_SPADE_0.1_support.csv
+				-Group 1 is applied by SPADE SP mining with threshold 0.1 and ranked by support.
+
+			semantic_seq_2005-10-10_SPADE_0.1_modelFreeScore.csv
+				-Group 1 is applied by SPADE SP mining with threshold 0.1 and ranked by modelFreeScore.
+
+			semantic_seq_2005-10-10_SPADE_0.1_coverage_support.csv 
+				-Group 1 is applied by SPADE SP mining with threshold 0.1 and ranked by coverage_support.
+
+			semantic_seq_2005-10-10_SPADE_0.1_coverage_modelFreeScore.csv
+				-Group 1 is applied by SPADE SP mining with threshold 0.1 and ranked by coverage_modelFreeScore.
+
+			For each file, those SPs are already ranked and translated into semantic meanings.
+			
+		For each file, I run R to build cox model and risksetAUC iteratively to see the accuracy. Numerical results are recorded into XXX_R.csv files. Also, I plot those results into a jpeg figure.
+				

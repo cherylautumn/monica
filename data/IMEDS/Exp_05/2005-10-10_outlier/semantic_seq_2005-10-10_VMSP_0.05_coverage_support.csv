@@ -1,0 +1,59 @@
+coverage_support,seqId,seq,semantic
+5,16,739138 -1  -2 ,'Sertraline' -1 -2 
+5,3,1551099 -1  -2 ,'Prednisone' -1 -2 
+4,10,1000560 -1  -2 ,'Ondansetron' -1 -2 
+3,43,1518254 19135839 19136030 -1  -2 ,'Dexamethasone' 'Magnesium salt' 'Saline Solution. Hypertonic' -1 -2 
+3,37,956874 1307046 -1  -2 ,'Furosemide' 'Metoprolol' -1 -2 
+3,4,1373928 -1  -2 ,'Hydralazine' -1 -2 
+3,1,1786621 -1  -2 ,'Cephalexin' -1 -2 
+3,0,19111620 -1  -2 ,'Folic Acid' -1 -2 
+4,13,797399 -1  -2 ,'gabapentin' -1 -2 
+3,46,956874 -1 1713332 1759842 -1  -2 ,'Furosemide' -1 'Amoxicillin' 'Clavulanate' -1 -2 
+3,34,903459 1518254 -1  -2 ,'Dolasetron' 'Dexamethasone' -1 -2 
+3,28,948078 -1 1754994 -1  -2 ,'pantoprazole' -1 'Fluconazole' -1 -2 
+3,25,1154343 1742253 -1  -2 ,'Albuterol' 'Levofloxacin' -1 -2 
+3,15,744740 -1  -2 ,'zolpidem' -1 -2 
+3,14,752061 -1  -2 ,'Prochlorperazine' -1 -2 
+3,8,1129625 -1  -2 ,'Diphenhydramine' -1 -2 
+4,12,961047 -1  -2 ,'Ranitidine' -1 -2 
+4,9,1110410 -1  -2 ,'Morphine' -1 -2 
+3,27,1518254 -1 1304850 -1  -2 ,'Dexamethasone' -1 'Filgrastim' -1 -2 
+3,19,19049105 -1 1310149 -1  -2 ,'Potassium Chloride' -1 'Warfarin' -1 -2 
+3,36,1112921 1154343 -1  -2 ,'Ipratropium' 'Albuterol' -1 -2 
+3,11,989878 -1  -2 ,'Lidocaine' -1 -2 
+3,2,1596977 -1  -2 ,'Insulin. Regular. Human' -1 -2 
+3,57,1307046 -1 1125315 1174888 -1 1201620 -1  -2 ,'Metoprolol' -1 'Acetaminophen' 'Hydrocodone' -1 'Codeine' -1 -2 
+3,44,1154343 -1 956874 19049105 -1  -2 ,'Albuterol' -1 'Furosemide' 'Potassium Chloride' -1 -2 
+3,17,19055720 -1 1742253 -1  -2 ,'HEPARIN. BEEF' -1 'Levofloxacin' -1 -2 
+3,54,1124957 -1 1125315 -1 1124957 -1  -2 ,'Oxycodone' -1 'Acetaminophen' -1 'Oxycodone' -1 -2 
+3,18,1518254 -1 19049105 -1  -2 ,'Dexamethasone' -1 'Potassium Chloride' -1 -2 
+3,33,1125315 1307046 -1  -2 ,'Acetaminophen' 'Metoprolol' -1 -2 
+3,21,19049105 -1 956874 -1  -2 ,'Potassium Chloride' -1 'Furosemide' -1 -2 
+3,56,956874 -1 1125315 1174888 -1 1754994 -1  -2 ,'Furosemide' -1 'Acetaminophen' 'Hydrocodone' -1 'Fluconazole' -1 -2 
+3,49,1742253 -1 1125315 -1 1153013 -1  -2 ,'Levofloxacin' -1 'Acetaminophen' -1 'Promethazine' -1 -2 
+3,41,781039 -1 956874 -1  -2 ,'Alprazolam' -1 'Furosemide' -1 -2 
+3,30,791967 -1 1742253 -1  -2 ,'Lorazepam' -1 'Levofloxacin' -1 -2 
+3,23,1742253 -1 1518254 -1  -2 ,'Levofloxacin' -1 'Dexamethasone' -1 -2 
+3,5,1332418 -1  -2 ,'Amlodipine' -1 -2 
+3,55,1124957 1125315 -1 956874 -1  -2 ,'Oxycodone' 'Acetaminophen' -1 'Furosemide' -1 -2 
+3,52,1125315 1174888 -1 1153013 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Promethazine' -1 -2 
+3,38,781039 -1 1154343 -1  -2 ,'Alprazolam' -1 'Albuterol' -1 -2 
+3,22,791967 -1 19055720 -1  -2 ,'Lorazepam' -1 'HEPARIN. BEEF' -1 -2 
+3,53,956874 -1 1326303 -1 1125315 -1  -2 ,'Furosemide' -1 'Digoxin' -1 'Acetaminophen' -1 -2 
+3,32,1307046 -1 1153013 -1  -2 ,'Metoprolol' -1 'Promethazine' -1 -2 
+3,7,1325608 -1  -2 ,'pegfilgrastim' -1 -2 
+3,51,1125315 -1 1326303 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Digoxin' -1 'Acetaminophen' -1 -2 
+3,29,1125315 -1 1518254 -1  -2 ,'Acetaminophen' -1 'Dexamethasone' -1 -2 
+3,50,956874 -1 1125315 -1 1742253 -1  -2 ,'Furosemide' -1 'Acetaminophen' -1 'Levofloxacin' -1 -2 
+3,48,1742253 -1 1125315 1174888 -1  -2 ,'Levofloxacin' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+3,47,1713332 1759842 -1 956874 -1  -2 ,'Amoxicillin' 'Clavulanate' -1 'Furosemide' -1 -2 
+3,45,1125315 -1 1713332 1759842 -1  -2 ,'Acetaminophen' -1 'Amoxicillin' 'Clavulanate' -1 -2 
+3,42,791967 -1 781039 -1  -2 ,'Lorazepam' -1 'Alprazolam' -1 -2 
+3,20,19049105 -1 1125315 -1  -2 ,'Potassium Chloride' -1 'Acetaminophen' -1 -2 
+3,31,1314002 -1 1153013 -1  -2 ,'Atenolol' -1 'Promethazine' -1 -2 
+3,40,1125315 -1 781039 -1  -2 ,'Acetaminophen' -1 'Alprazolam' -1 -2 
+3,26,1754994 -1 1125315 -1  -2 ,'Fluconazole' -1 'Acetaminophen' -1 -2 
+3,6,1328165 -1  -2 ,'Diltiazem' -1 -2 
+3,39,1125315 -1 791967 -1  -2 ,'Acetaminophen' -1 'Lorazepam' -1 -2 
+3,24,1754994 -1 1201620 -1  -2 ,'Fluconazole' -1 'Codeine' -1 -2 
+3,35,1125315 -1 1154343 -1  -2 ,'Acetaminophen' -1 'Albuterol' -1 -2 

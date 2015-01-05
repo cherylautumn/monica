@@ -1,0 +1,134 @@
+coverage_support,seqId,seq,semantic
+16,8,956874 -1  -2 ,'Furosemide' -1 -2 
+10,30,1518254 -1  -2 ,'Dexamethasone' -1 -2 
+6,14,1124957 -1  -2 ,'Oxycodone' -1 -2 
+7,33,1713332 -1  -2 ,'Amoxicillin' -1 -2 
+7,7,948078 -1  -2 ,'pantoprazole' -1 -2 
+13,38,19049105 -1  -2 ,'Potassium Chloride' -1 -2 
+10,34,1742253 -1  -2 ,'Levofloxacin' -1 -2 
+7,39,19055720 -1  -2 ,'HEPARIN. BEEF' -1 -2 
+6,26,1326303 -1  -2 ,'Digoxin' -1 -2 
+5,3,781039 -1  -2 ,'Alprazolam' -1 -2 
+4,6,903459 -1  -2 ,'Dolasetron' -1 -2 
+3,40,19111620 -1  -2 ,'Folic Acid' -1 -2 
+3,16,1129625 -1  -2 ,'Diphenhydramine' -1 -2 
+3,2,752061 -1  -2 ,'Prochlorperazine' -1 -2 
+9,15,1125315 -1  -2 ,'Acetaminophen' -1 -2 
+7,52,956874 19049105 -1  -2 ,'Furosemide' 'Potassium Chloride' -1 -2 
+7,23,1310149 -1  -2 ,'Warfarin' -1 -2 
+6,54,1713332 1759842 -1  -2 ,'Amoxicillin' 'Clavulanate' -1 -2 
+5,0,739138 -1  -2 ,'Sertraline' -1 -2 
+3,29,1373928 -1  -2 ,'Hydralazine' -1 -2 
+7,22,1307046 -1  -2 ,'Metoprolol' -1 -2 
+6,35,1754994 -1  -2 ,'Fluconazole' -1 -2 
+6,18,1154343 -1  -2 ,'Albuterol' -1 -2 
+5,31,1551099 -1  -2 ,'Prednisone' -1 -2 
+5,17,1153013 -1  -2 ,'Promethazine' -1 -2 
+4,5,797399 -1  -2 ,'gabapentin' -1 -2 
+3,80,903459 1518254 -1  -2 ,'Dolasetron' 'Dexamethasone' -1 -2 
+3,37,1786621 -1  -2 ,'Cephalexin' -1 -2 
+3,1,744740 -1  -2 ,'zolpidem' -1 -2 
+7,99,1125315 1174888 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 -2 
+6,36,1759842 -1  -2 ,'Clavulanate' -1 -2 
+4,44,1518254 19136030 -1  -2 ,'Dexamethasone' 'Saline Solution. Hypertonic' -1 -2 
+5,4,791967 -1  -2 ,'Lorazepam' -1 -2 
+3,66,1154343 1742253 -1  -2 ,'Albuterol' 'Levofloxacin' -1 -2 
+4,70,956874 -1 1742253 -1  -2 ,'Furosemide' -1 'Levofloxacin' -1 -2 
+4,24,1314002 -1  -2 ,'Atenolol' -1 -2 
+4,20,1201620 -1  -2 ,'Codeine' -1 -2 
+4,9,961047 -1  -2 ,'Ranitidine' -1 -2 
+3,78,1518254 -1 1304850 -1  -2 ,'Dexamethasone' -1 'Filgrastim' -1 -2 
+3,49,19049105 -1 1310149 -1  -2 ,'Potassium Chloride' -1 'Warfarin' -1 -2 
+7,19,1174888 -1  -2 ,'Hydrocodone' -1 -2 
+4,42,19136030 -1  -2 ,'Saline Solution. Hypertonic' -1 -2 
+3,53,19049105 -1 956874 -1  -2 ,'Potassium Chloride' -1 'Furosemide' -1 -2 
+4,12,1110410 -1  -2 ,'Morphine' -1 -2 
+3,131,956874 -1 1713332 1759842 -1  -2 ,'Furosemide' -1 'Amoxicillin' 'Clavulanate' -1 -2 
+3,105,1154343 -1 956874 19049105 -1  -2 ,'Albuterol' -1 'Furosemide' 'Potassium Chloride' -1 -2 
+3,64,1742253 -1 1518254 -1  -2 ,'Levofloxacin' -1 'Dexamethasone' -1 -2 
+3,63,948078 -1 1754994 -1  -2 ,'pantoprazole' -1 'Fluconazole' -1 -2 
+3,21,1304850 -1  -2 ,'Filgrastim' -1 -2 
+3,10,989878 -1  -2 ,'Lidocaine' -1 -2 
+4,111,956874 -1 1125315 -1  -2 ,'Furosemide' -1 'Acetaminophen' -1 -2 
+4,11,1000560 -1  -2 ,'Ondansetron' -1 -2 
+3,81,1518254 19135839 19136030 -1  -2 ,'Dexamethasone' 'Magnesium salt' 'Saline Solution. Hypertonic' -1 -2 
+3,91,956874 1307046 -1  -2 ,'Furosemide' 'Metoprolol' -1 -2 
+4,106,1125315 -1 1153013 -1  -2 ,'Acetaminophen' -1 'Promethazine' -1 -2 
+3,123,1124957 -1 1125315 -1 1124957 -1  -2 ,'Oxycodone' -1 'Acetaminophen' -1 'Oxycodone' -1 -2 
+3,75,956874 -1 1713332 -1  -2 ,'Furosemide' -1 'Amoxicillin' -1 -2 
+3,48,1518254 -1 19049105 -1  -2 ,'Dexamethasone' -1 'Potassium Chloride' -1 -2 
+3,32,1596977 -1  -2 ,'Insulin. Regular. Human' -1 -2 
+4,69,1742253 -1 1125315 -1  -2 ,'Levofloxacin' -1 'Acetaminophen' -1 -2 
+3,124,781039 -1 956874 -1  -2 ,'Alprazolam' -1 'Furosemide' -1 -2 
+3,120,1124957 -1 1124957 -1  -2 ,'Oxycodone' -1 'Oxycodone' -1 -2 
+3,45,1518254 19135839 -1  -2 ,'Dexamethasone' 'Magnesium salt' -1 -2 
+3,103,1154343 -1 956874 -1  -2 ,'Albuterol' -1 'Furosemide' -1 -2 
+3,89,1125315 1307046 -1  -2 ,'Acetaminophen' 'Metoprolol' -1 -2 
+3,71,791967 -1 1742253 -1  -2 ,'Lorazepam' -1 'Levofloxacin' -1 -2 
+3,56,956874 -1 1759842 -1  -2 ,'Furosemide' -1 'Clavulanate' -1 -2 
+4,67,1742253 -1 1153013 -1  -2 ,'Levofloxacin' -1 'Promethazine' -1 -2 
+3,102,1112921 1154343 -1  -2 ,'Ipratropium' 'Albuterol' -1 -2 
+3,110,1125315 -1 1124957 -1  -2 ,'Acetaminophen' -1 'Oxycodone' -1 -2 
+3,43,19135839 19136030 -1  -2 ,'Magnesium salt' 'Saline Solution. Hypertonic' -1 -2 
+3,104,781039 -1 1154343 -1  -2 ,'Alprazolam' -1 'Albuterol' -1 -2 
+3,47,791967 -1 19055720 -1  -2 ,'Lorazepam' -1 'HEPARIN. BEEF' -1 -2 
+3,132,791967 -1 781039 -1  -2 ,'Lorazepam' -1 'Alprazolam' -1 -2 
+3,109,1124957 -1 1125315 -1  -2 ,'Oxycodone' -1 'Acetaminophen' -1 -2 
+3,116,1125315 1174888 -1 1153013 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Promethazine' -1 -2 
+3,50,1154343 -1 19049105 -1  -2 ,'Albuterol' -1 'Potassium Chloride' -1 -2 
+3,41,19135839 -1  -2 ,'Magnesium salt' -1 -2 
+3,46,19055720 -1 1742253 -1  -2 ,'HEPARIN. BEEF' -1 'Levofloxacin' -1 -2 
+3,130,956874 -1 1174888 -1 1754994 -1  -2 ,'Furosemide' -1 'Hydrocodone' -1 'Fluconazole' -1 -2 
+3,79,1125315 -1 1518254 -1  -2 ,'Acetaminophen' -1 'Dexamethasone' -1 -2 
+3,127,956874 -1 1125315 -1 1742253 -1  -2 ,'Furosemide' -1 'Acetaminophen' -1 'Levofloxacin' -1 -2 
+3,28,1332418 -1  -2 ,'Amlodipine' -1 -2 
+3,25,1325608 -1  -2 ,'pegfilgrastim' -1 -2 
+3,129,956874 -1 1125315 1174888 -1 1754994 -1  -2 ,'Furosemide' -1 'Acetaminophen' 'Hydrocodone' -1 'Fluconazole' -1 -2 
+3,72,1742253 -1 1125315 -1 1153013 -1  -2 ,'Levofloxacin' -1 'Acetaminophen' -1 'Promethazine' -1 -2 
+3,13,1112921 -1  -2 ,'Ipratropium' -1 -2 
+3,128,956874 -1 1125315 -1 1754994 -1  -2 ,'Furosemide' -1 'Acetaminophen' -1 'Fluconazole' -1 -2 
+3,27,1328165 -1  -2 ,'Diltiazem' -1 -2 
+3,117,1125315 1174888 -1 1201620 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Codeine' -1 -2 
+3,126,956874 -1 1326303 -1 1125315 -1  -2 ,'Furosemide' -1 'Digoxin' -1 'Acetaminophen' -1 -2 
+3,98,1174888 -1 1153013 -1  -2 ,'Hydrocodone' -1 'Promethazine' -1 -2 
+3,122,1124957 1125315 -1 956874 -1  -2 ,'Oxycodone' 'Acetaminophen' -1 'Furosemide' -1 -2 
+3,125,956874 -1 1125315 1174888 -1  -2 ,'Furosemide' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+3,121,1124957 -1 956874 -1  -2 ,'Oxycodone' -1 'Furosemide' -1 -2 
+3,88,1307046 -1 1153013 -1  -2 ,'Metoprolol' -1 'Promethazine' -1 -2 
+3,119,1125315 -1 1713332 1759842 -1  -2 ,'Acetaminophen' -1 'Amoxicillin' 'Clavulanate' -1 -2 
+3,73,1742253 -1 1125315 1174888 -1  -2 ,'Levofloxacin' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+3,115,1125315 -1 1326303 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Digoxin' -1 'Acetaminophen' -1 -2 
+3,118,1125315 1174888 -1 1754994 -1  -2 ,'Acetaminophen' 'Hydrocodone' -1 'Fluconazole' -1 -2 
+3,112,1125315 -1 956874 -1  -2 ,'Acetaminophen' -1 'Furosemide' -1 -2 
+3,65,1742253 -1 1174888 -1  -2 ,'Levofloxacin' -1 'Hydrocodone' -1 -2 
+3,114,1125315 -1 781039 -1  -2 ,'Acetaminophen' -1 'Alprazolam' -1 -2 
+3,51,19049105 -1 1125315 -1  -2 ,'Potassium Chloride' -1 'Acetaminophen' -1 -2 
+3,85,1314002 -1 1153013 -1  -2 ,'Atenolol' -1 'Promethazine' -1 -2 
+3,113,1125315 -1 791967 -1  -2 ,'Acetaminophen' -1 'Lorazepam' -1 -2 
+3,108,1124957 1125315 -1  -2 ,'Oxycodone' 'Acetaminophen' -1 -2 
+3,97,1125315 -1 1201620 -1  -2 ,'Acetaminophen' -1 'Codeine' -1 -2 
+3,107,1125315 -1 1125315 -1  -2 ,'Acetaminophen' -1 'Acetaminophen' -1 -2 
+3,101,1125315 -1 1154343 -1  -2 ,'Acetaminophen' -1 'Albuterol' -1 -2 
+3,96,1174888 -1 1201620 -1  -2 ,'Hydrocodone' -1 'Codeine' -1 -2 
+3,100,956874 -1 1174888 -1  -2 ,'Furosemide' -1 'Hydrocodone' -1 -2 
+3,77,1713332 1759842 -1 956874 -1  -2 ,'Amoxicillin' 'Clavulanate' -1 'Furosemide' -1 -2 
+3,95,1307046 -1 1174888 -1 1201620 -1  -2 ,'Metoprolol' -1 'Hydrocodone' -1 'Codeine' -1 -2 
+3,94,1307046 -1 1125315 1174888 -1 1201620 -1  -2 ,'Metoprolol' -1 'Acetaminophen' 'Hydrocodone' -1 'Codeine' -1 -2 
+3,84,956874 -1 1326303 -1  -2 ,'Furosemide' -1 'Digoxin' -1 -2 
+3,76,1713332 -1 956874 -1  -2 ,'Amoxicillin' -1 'Furosemide' -1 -2 
+3,93,1307046 -1 1125315 -1 1201620 -1  -2 ,'Metoprolol' -1 'Acetaminophen' -1 'Codeine' -1 -2 
+3,83,1326303 -1 1125315 -1  -2 ,'Digoxin' -1 'Acetaminophen' -1 -2 
+3,74,1125315 -1 1713332 -1  -2 ,'Acetaminophen' -1 'Amoxicillin' -1 -2 
+3,92,1307046 -1 1125315 1174888 -1  -2 ,'Metoprolol' -1 'Acetaminophen' 'Hydrocodone' -1 -2 
+3,82,1125315 -1 1326303 -1  -2 ,'Acetaminophen' -1 'Digoxin' -1 -2 
+3,57,1759842 -1 956874 -1  -2 ,'Clavulanate' -1 'Furosemide' -1 -2 
+3,90,1307046 -1 1125315 -1  -2 ,'Metoprolol' -1 'Acetaminophen' -1 -2 
+3,68,1125315 -1 1742253 -1  -2 ,'Acetaminophen' -1 'Levofloxacin' -1 -2 
+3,55,1125315 -1 1759842 -1  -2 ,'Acetaminophen' -1 'Clavulanate' -1 -2 
+3,87,1307046 -1 1174888 -1  -2 ,'Metoprolol' -1 'Hydrocodone' -1 -2 
+3,62,956874 -1 1754994 -1  -2 ,'Furosemide' -1 'Fluconazole' -1 -2 
+3,86,1307046 -1 1201620 -1  -2 ,'Metoprolol' -1 'Codeine' -1 -2 
+3,61,1754994 -1 1125315 -1  -2 ,'Fluconazole' -1 'Acetaminophen' -1 -2 
+3,60,1125315 -1 1754994 -1  -2 ,'Acetaminophen' -1 'Fluconazole' -1 -2 
+3,58,1754994 -1 1201620 -1  -2 ,'Fluconazole' -1 'Codeine' -1 -2 
+3,59,1174888 -1 1754994 -1  -2 ,'Hydrocodone' -1 'Fluconazole' -1 -2 
